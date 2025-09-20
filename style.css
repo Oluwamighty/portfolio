@@ -159,6 +159,11 @@ body{
 .word-header h3{
     margin: 20px 5px;
 }
+.btn-text{
+    text-decoration: none;
+    font-style: none;
+    color: white;
+}
 .word-header p{
     text-align: center;
     margin: 0px;
